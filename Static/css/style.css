@@ -1,0 +1,21 @@
+body {
+    background-color: #bee8c9;
+    font-family: 'Architects Daughter', cursive;
+
+}
+
+#main_div {
+    background-color: #afaded;
+
+    margin: 50px 50px 50px 50px;
+    padding: 70px 70px 70px 70px;
+    border-radius: 25px;
+    text-align: center;
+
+}
+
+#troll_img {
+    height: 400px;
+    width: 400px;
+
+}
