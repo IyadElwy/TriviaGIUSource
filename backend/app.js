@@ -22,6 +22,11 @@ router.get('/startgame', async (req, res) => {
 });
 
 
+router.get('/gameover', (req, res) => {
+    res.send('Hello World!');
+});
+
+
 ///////////////////////////////////////////////////////////////////////////////
 
 app.use(router);
